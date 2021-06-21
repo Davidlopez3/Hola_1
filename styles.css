@@ -1,0 +1,105 @@
+#uno{
+	font-family: 'Open Sans', sans-serif;
+	 text-align: center;
+	 background:linear-gradient(to right,#fcbf49, #003049);
+	 width: 900px;
+ 		height: 100px;
+ 		color: white;
+ 		border-radius: 15px;
+ 		transition: width 2s;
+ 		text-shadow: 2px 2px 4px #000000;
+
+}
+#dos{
+	font-family: 'Arsenal', sans-serif;
+	 text-align: center;
+	 background:linear-gradient(to right,#fefe02, #001011, #2a2d34 ,#009ddc ,#f26430);
+	 width: 900px;
+ 		height: 100px;
+ 		color: white;
+ 		border-radius: 15px;
+ 		transition: width 2s;
+ 		text-shadow: 2px 2px 4px #000000;
+}
+#tres{
+	font-family: 'Sofia', cursive;
+	 text-align: center;
+	 color: white;
+	background:linear-gradient(to right,#ffbf00, #003049);
+	 width: 900px;
+ 		height: 100px;
+ 		border-radius: 15px;
+ 		transition: width 2s;
+ 		text-shadow: 2px 2px 4px #000000;
+}
+#cuatro{
+    font-family: 'Josefin Sans', sans-serif;
+     text-align: center;
+     background:linear-gradient(to right,#eefc57,#fcd757,#fc7a57,#df9a57,#0000ff);
+     width: 900px;
+ 		height: 100px;
+ 		color: white;
+ 		border-radius: 15px;
+ 		transition: width 2s;
+ 		text-shadow: 2px 2px 4px #000000;
+}
+#cinco
+{
+    font-family: 'Caveat', cursive;
+     text-align: center;
+     color: white;
+  		text-shadow: 2px 2px 4px #000000;
+  		background:linear-gradient(to right,#025f01,#25a201,#fefe02,#c3cf2d ,#ba9400);
+  		width: 900px;
+ 		height: 100px;
+ 		border-radius: 15px;
+ 		transition: width 2s;
+ 		text-shadow: 2px 2px 4px #000000;
+}
+
+#seis{
+	font-family: 'Rock Salt', cursive;
+	 text-align: center;
+	 color: white;
+  		text-shadow: 2px 2px 4px #000000;
+  		background:linear-gradient(to right,#220901, #003049, #621708,#941b0c,#bc3908,#f6aa1c);
+  		width: 900px;
+ 		height: 100px;
+ 		border-radius: 15px;
+ 		transition: width 2s;
+ 		text-shadow: 2px 2px 4px #000000;
+}
+
+#siete{
+	    font-family: 'Cinzel Decorative', cursive;
+     	text-align: center;
+  		text-shadow: 2px 2px 4px #000000;
+  		 border-radius: 15px;
+  		 color: white;
+  		width: 900px;
+ 		height: 100px;
+  		background:linear-gradient(to right, #ffff00, #0000ff);
+  		transition: width 2s;
+}
+#siete:hover{
+	width: 1300px;
+}
+
+#seis:hover{
+	width: 1300px;
+}
+#cinco:hover{
+	width: 1300px;
+}
+#cuatro:hover{
+	width: 1300px;
+}
+#tres:hover{
+	width: 1300px;
+}
+#dos:hover{
+	width: 1300px;
+}
+#uno:hover{
+	width: 1300px;
+}
